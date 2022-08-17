@@ -1,0 +1,21 @@
+body {
+  background: url(https://free4kwallpapers.com/uploads/originals/2015/09/16/weather-live-wallpaper-icon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.weather-box {
+  border: 3px solid white;
+  padding: 50px;
+  border-radius: 30px;
+  background-color: azure;
+}
